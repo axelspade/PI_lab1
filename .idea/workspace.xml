@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7f13472-b46d-446c-bcbc-9ca00c7cdfe5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="64" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CanvasDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="202" column="24" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="24" />
+              <folding>
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1497#1498#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Filter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!block;n#Filter#0;n#Filter#0" />
+                <element signature="method#setClassArguments#0;class#Filter#0" />
+                <element signature="e#595#772#0" />
+                <element signature="e#795#839#0" />
+                <element signature="method#getPixelColorhexCode#0;class#Filter#0" />
+                <element signature="e#952#1213#1" />
+                <element signature="e#997#1203#1" />
+                <element signature="method#getRGBAVector#0;class#Filter#0" />
+                <element signature="method#applyGrayscale#0;class#Filter#0" />
+                <element signature="e#1750#2007#1" />
+                <element signature="method#applyThresholdingFromRGBA#0;class#Filter#0" />
+                <element signature="e#2711#3625#1" />
+                <element signature="e#2756#3614#1" />
+                <element signature="method#applyThresholdingFromGrayscale#0;class#Filter#0" />
+                <element signature="e#3831#4288#1" />
+                <element signature="e#3876#4278#1" />
+                <element signature="method#applyContrast#0;class#Filter#0" />
+                <element signature="e#4468#5566#1" />
+                <element signature="e#4513#5556#1" />
+                <element signature="method#applyInvert#0;class#Filter#0" />
+                <element signature="e#5744#6708#1" />
+                <element signature="e#5789#6697#1" />
+                <element signature="method#applyGammaCorrection#0;class#Filter#0" />
+                <element signature="e#6895#7949#1" />
+                <element signature="e#6940#7938#1" />
+                <element signature="method#exportDummyToFile#0;class#Filter#0" />
+                <element signature="e#8130#8232#0" />
+                <element signature="e#8270#8316#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ImgPannel.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MyCanvas.java" />
+        <option value="$PROJECT_DIR$/src/com/company/UI.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Filter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CanvasDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-223" />
+    <option name="y" value="20" />
+    <option name="width" value="1601" />
+    <option name="height" value="910" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PI_Lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI_Lab1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PI_Lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI_Lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PI_Lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PI_Lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553176636102" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CanvasDemo">
+    <configuration name="CanvasDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CanvasDemo" />
+      <module name="PI_Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="PI_Lab1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.UI" />
+      <module name="PI_Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.UI" />
+      <item itemvalue="Application.CanvasDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CanvasDemo" />
+        <item itemvalue="Application.UI" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f13472-b46d-446c-bcbc-9ca00c7cdfe5" name="Default Changelist" comment="" />
+      <created>1553157262318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553157262318</updated>
+      <workItem from="1553157265372" duration="1676000" />
+      <workItem from="1553159481899" duration="8642000" />
+      <workItem from="1553175495114" duration="1132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11450000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25755286" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35473517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32744783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ImgPannel.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/MyCanvas.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/UI.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!block;n#Filter#0;n#Filter#0" />
+            <element signature="method#setClassArguments#0;class#Filter#0" />
+            <element signature="e#595#772#0" />
+            <element signature="e#795#839#0" />
+            <element signature="method#getPixelColorhexCode#0;class#Filter#0" />
+            <element signature="e#952#1213#1" />
+            <element signature="e#997#1203#1" />
+            <element signature="method#getRGBAVector#0;class#Filter#0" />
+            <element signature="method#applyGrayscale#0;class#Filter#0" />
+            <element signature="e#1750#2007#1" />
+            <element signature="method#applyThresholdingFromRGBA#0;class#Filter#0" />
+            <element signature="e#2711#3625#1" />
+            <element signature="e#2756#3614#1" />
+            <element signature="method#applyThresholdingFromGrayscale#0;class#Filter#0" />
+            <element signature="e#3831#4288#1" />
+            <element signature="e#3876#4278#1" />
+            <element signature="method#applyContrast#0;class#Filter#0" />
+            <element signature="e#4468#5566#1" />
+            <element signature="e#4513#5556#1" />
+            <element signature="method#applyInvert#0;class#Filter#0" />
+            <element signature="e#5744#6708#1" />
+            <element signature="e#5789#6697#1" />
+            <element signature="method#applyGammaCorrection#0;class#Filter#0" />
+            <element signature="e#6895#7949#1" />
+            <element signature="e#6940#7938#1" />
+            <element signature="method#exportDummyToFile#0;class#Filter#0" />
+            <element signature="e#8130#8232#0" />
+            <element signature="e#8270#8316#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CanvasDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="202" column="24" selection-start-line="202" selection-start-column="24" selection-end-line="202" selection-end-column="24" />
+          <folding>
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1497#1498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
